@@ -1,10 +1,15 @@
 # USDCBALL
 
+![image (43)](https://github.com/user-attachments/assets/d49906c8-09b2-4cd6-8c73-2da1b50bbbab)
+
 **$USDCBALL is the first token in the world that automatically uses USDC to marketmake itself.**
 
 ---
 
 ## Overview
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/ba5654c1-7c00-4480-85a5-57b3c8f6d38b" />
+
 
 USDCBALL is an autonomous Solana token protocol that fundamentally rethinks treasury management and market making. Instead of accumulating volatile SOL in a treasury, USDCBALL automatically converts all creator fees into USDC and deploys that stable capital to:
 
