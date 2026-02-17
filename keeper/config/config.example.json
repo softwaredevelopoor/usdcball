@@ -1,0 +1,26 @@
+{
+  "rpcUrl": "https://api.mainnet-beta.solana.com",
+  "wsUrl": "wss://api.mainnet-beta.solana.com",
+  "programId": "USDCbaf11111111111111111111111111111111111",
+  "treasuryAddress": "",
+  "treasuryUsdcAccount": "",
+  "usdcMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+  "tokenMint": "",
+  "jupiterApiUrl": "https://quote-api.jup.ag/v6",
+  "dryRun": true,
+  "allocations": {
+    "buyback": 0.5,
+    "liquidity": 0.3,
+    "reserve": 0.2
+  },
+  "limits": {
+    "maxUsdcPerCycle": 10000000000,
+    "cooldownMinutes": 60,
+    "slippageBps": 200,
+    "minSolToSwap": 100000000
+  },
+  "monitoring": {
+    "checkIntervalSeconds": 60,
+    "logLevel": "info"
+  }
+}
